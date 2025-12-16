@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ミュージック（Cornelius Remix）",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-16T09:05:12.348602Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミュージック (Cornelius Remix)",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_ミュージック_(Cornelius_Remix)_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミュージック(Cornelius Remix)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_ミュージック(Cornelius_Remix)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミュージック (Cornelius Remix)",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/03_ミュージック_(Cornelius_Remix)_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミュージック（Cornelius Remix）",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/04_ミュージック(Cornelius_Remix)_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミュージック (Cornelius Remix)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/05_ミュージック_(Cornelius_Remix)_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミュージック(Cornelius Remix)",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_ミュージック(Cornelius_Remix)_サカナクション.txt"
+    }
+  ]
+}
